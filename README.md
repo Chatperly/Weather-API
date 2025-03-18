@@ -7,6 +7,7 @@ Real-Time Weather Data: Retrieves current weather conditions, including temperat
 Forecast Information: Provides weather forecasts for upcoming days.
 Location-Based Search: Allows users to input a city name or coordinates to get weather information for that specific location.
 Error Handling: Manages scenarios like invalid location inputs or failed API requests gracefully.
+
 🚀 Getting Started
 Prerequisites
 Java Development Kit (JDK): Ensure you have JDK 8 or higher installed.
